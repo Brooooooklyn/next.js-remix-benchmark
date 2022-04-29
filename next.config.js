@@ -13,6 +13,7 @@ const nextConfig = {
     ignoreBuildErrors: true,
   },
   compress: false,
+  target: 'serverless',
 }
 
 module.exports = nextConfig
