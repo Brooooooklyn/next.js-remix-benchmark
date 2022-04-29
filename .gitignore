@@ -42,3 +42,5 @@ public
 !.yarn/releases
 !.yarn/sdks
 !.yarn/versions
+!next-sample.cpuprofile
+!remix-sample.cpuprofile

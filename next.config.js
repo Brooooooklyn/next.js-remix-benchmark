@@ -12,6 +12,7 @@ const nextConfig = {
   typescript: {
     ignoreBuildErrors: true,
   },
+  compress: false,
 }
 
 module.exports = nextConfig
